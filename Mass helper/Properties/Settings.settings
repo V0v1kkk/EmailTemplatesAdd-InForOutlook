@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Mass_helper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="configpathS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\fs-ekb-a0009\Отдел поддержки пользователей\Группа обработки обращений\Старшие смены\Mass_helper\Config\</Value>
+    </Setting>
+    <Setting Name="localConfigpathS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">%USERPROFILE%\AppData\Local\Mass helper\</Value>
+    </Setting>
+    <Setting Name="AutoUpdate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AutoUpdatePeriod" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="databasePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\fs-ekb-a0009\Отдел поддержки пользователей\Группа обработки обращений\Старшие смены\Mass_helper\Config\base.sqlite3</Value>
+    </Setting>
+    <Setting Name="DisplayNote" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="forceDisplayNote" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="firstStart" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="tabLabel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ПОМОЩНИК СС</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
